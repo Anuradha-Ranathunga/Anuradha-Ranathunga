@@ -1,8 +1,8 @@
-[!MasterHead](https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif)
+![MasterHead](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/main/image/ezgif-5-2687cb1c0a.gif)
 
 <h1 align="center">Hi 👋, I'm Anuradha Ranathunga</h1>
-<h3 align="center"> An undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
-<img aligh=right" alt="coding" width="400" scr="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt">
+<h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
+<center><img align=center" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha-ranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha-ranathunga" /> </p>
 
@@ -22,11 +22,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anuradha ranathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha ranathunga" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anuradha-ranathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anuradha-ranathunga" height="30" width="40" /></a>
-<a href="https://kaggle.com/anuradha ranathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anuradha ranathunga" height="30" width="40" /></a>
-<a href="https://fb.com/kalpani anuradha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalpani anuradha" height="30" width="40" /></a>
-<a href="https://instagram.com/kalpani_anuradhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalpani_anuradhaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuradharanathunga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuradha ranathunga" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23163458/anuradha-ranathunga?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anuradha-ranathunga" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/anuradharanathunga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anuradha ranathunga" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kalpani.anuradha.589" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalpani anuradha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kalpani_anuradhaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalpani_anuradhaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuradhaa2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuradhaa2001" height="30" width="40" /></a>
 </p>
 
