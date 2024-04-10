@@ -1,18 +1,18 @@
 ![MasterHead](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/main/image/ezgif-5-2687cb1c0a.gif)
 
 <h1 align="center">Hi 👋, I'm Anuradha Ranathunga</h1>
-<h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
-<center><img align=right" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
+<h3 align="center"> An undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
+<center><img align="right" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha-ranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha-ranathunga" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🎓 I’m currently study on [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/) 
+- 🎓 I’m currently studying on [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/) 
 
-- 🔭 I’m currently working on [Library Management System using laravel 11](https://github.com/pinilDissanayaka/libraryManagement)
+- 🔭 I’m currently working on [Library Management System using Laravel 11](https://github.com/pinilDissanayaka/libraryManagement)
 
-- 🌱 I’m currently learning Data engineering, SQL, Databases, Data pipelines, Data infrastructure
+- 🌱 I’m currently learning Data engineering, SQL, Databases, Data pipelines, Data Infrastructure
 
 - 💬 Ask me about Machine Learning & Deep Learning
 
