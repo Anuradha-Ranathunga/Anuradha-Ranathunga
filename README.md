@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuradha Ranathunga</h1>
 <h3 align="center">A undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
-<center><img align=center" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
+<center><img align=right" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha-ranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha-ranathunga" /> </p>
 
