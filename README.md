@@ -1,8 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/yashwantaditya009/yashwantaditya009/main/image/ezgif-5-2687cb1c0a.gif)
+![MasterHead](https://camo.githubusercontent.com/f5a8ba4f28fe3ec8d5eb73dfa2303873b5d7122fb1ba08a5946e24d6c13e82c4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443132415145536a37322d733567454b672f61727469636c652d636f7665725f696d6167652d736872696e6b5f3630305f323030302f302f313632363735333836373131303f653d3231343734383336343726763d6265746126743d4b6637594175775a74794347594c4e63682d4d676335654f432d376837754c5f646e424149677341465251)
 
 <h1 align="center">Hi 👋, I'm Anuradha Ranathunga</h1>
 <h3 align="center"> An undergraduate Data Scientist/ Data Engineer/ Machine Learning Engineer from Sri Lanka..</h3>
-<center><img align="right" alt="coding" width="400" src="https://lh6.googleusercontent.com/proxy/7BS3EH6Q_1vPPg_u4x7D1uEfC6Wdb-CHuihpC4SjcAHnmCcd45gANONrRdks8mub8Tg_L7b-RqJzgecr3uPI8KWRMCUgLiQ3VnrTS6Xt"></center>
+<center><img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*dd26tSN0XkNa_jjy.png"></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuradha-ranathunga&label=Profile%20views&color=0e75b6&style=flat" alt="anuradha-ranathunga" /> </p>
 
